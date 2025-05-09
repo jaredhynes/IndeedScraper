@@ -1,0 +1,895 @@
+Scraping started at: 2025-05-08 20:06:49.566200
+Master file: scraped_data\master_jobs.csv
+Backup file: scraped_data\master_jobs_backup.csv
+==================================================
+
+[2025-05-08 20:06:49] Starting job scraping...
+[2025-05-08 20:06:49] Visiting main page...
+[2025-05-08 20:06:49] 
+Please complete the Cloudflare check in the browser window.
+[2025-05-08 20:06:49] Press Enter in this terminal when you're done...
+[2025-05-08 20:06:51] Waiting for page to fully load...
+[2025-05-08 20:07:01] Performing search...
+[2025-05-08 20:07:01] 
+If there's another security check, please complete it now.
+[2025-05-08 20:07:01] Press Enter in this terminal when you're done...
+[2025-05-08 20:07:05] Waiting for search results to load...
+[2025-05-08 20:07:15] 
+Scraping page 1 of 150...
+[2025-05-08 20:07:15] Current URL: https://www.indeed.com/jobs?q=software+engineer&l=United+States&vjk=4d11e4afb345f3a5
+[2025-05-08 20:07:15] Found 15 job cards
+[2025-05-08 20:07:57] Successfully scraped 15 jobs from this page
+[2025-05-08 20:07:57] Total jobs scraped so far: 15
+[2025-05-08 20:07:57] Created new master file with 15 jobs
+[2025-05-08 20:07:57] Backup saved to scraped_data\master_jobs_backup.csv
+[2025-05-08 20:07:57] Waiting 5 seconds before moving to page 2...
+[2025-05-08 20:08:07] 
+Scraping page 2 of 150...
+[2025-05-08 20:08:07] Current URL: https://www.indeed.com/jobs?q=software+engineer&l=United+States&radius=50&start=10&vjk=6986aafcd253440a
+[2025-05-08 20:08:07] Found 15 job cards
+[2025-05-08 20:08:47] Successfully scraped 15 jobs from this page
+[2025-05-08 20:08:47] Total jobs scraped so far: 15
+[2025-05-08 20:08:47] Added 15 new jobs to master file
+[2025-05-08 20:08:47] Total jobs in master file: 30
+[2025-05-08 20:08:47] Backup saved to scraped_data\master_jobs_backup.csv
+[2025-05-08 20:08:47] Waiting 5 seconds before moving to page 3...
+[2025-05-08 20:08:56] 
+Scraping page 3 of 150...
+[2025-05-08 20:08:56] Current URL: https://www.indeed.com/jobs?q=software+engineer&l=United+States&radius=50&start=20&vjk=6a84a5ae4e3bf473
+[2025-05-08 20:08:56] Found 15 job cards
+[2025-05-08 20:09:37] Successfully scraped 15 jobs from this page
+[2025-05-08 20:09:37] Total jobs scraped so far: 15
+[2025-05-08 20:09:37] Added 15 new jobs to master file
+[2025-05-08 20:09:37] Total jobs in master file: 45
+[2025-05-08 20:09:37] Backup saved to scraped_data\master_jobs_backup.csv
+[2025-05-08 20:09:37] Waiting 5 seconds before moving to page 4...
+[2025-05-08 20:09:46] 
+Scraping page 4 of 150...
+[2025-05-08 20:09:46] Current URL: https://www.indeed.com/jobs?q=software+engineer&l=United+States&radius=50&start=30&vjk=a6611d55703c47a4
+[2025-05-08 20:09:46] Found 15 job cards
+[2025-05-08 20:10:27] Successfully scraped 15 jobs from this page
+[2025-05-08 20:10:27] Total jobs scraped so far: 15
+[2025-05-08 20:10:27] Added 15 new jobs to master file
+[2025-05-08 20:10:27] Total jobs in master file: 60
+[2025-05-08 20:10:27] Backup saved to scraped_data\master_jobs_backup.csv
+[2025-05-08 20:10:27] Waiting 5 seconds before moving to page 5...
+[2025-05-08 20:10:36] 
+Scraping page 5 of 150...
+[2025-05-08 20:10:36] Current URL: https://www.indeed.com/jobs?q=software+engineer&l=United+States&radius=50&start=40&vjk=a2799f8c927f1ca6
+[2025-05-08 20:10:36] Found 15 job cards
+[2025-05-08 20:11:17] Successfully scraped 15 jobs from this page
+[2025-05-08 20:11:17] Total jobs scraped so far: 15
+[2025-05-08 20:11:17] Added 15 new jobs to master file
+[2025-05-08 20:11:17] Total jobs in master file: 75
+[2025-05-08 20:11:17] Backup saved to scraped_data\master_jobs_backup.csv
+[2025-05-08 20:11:17] Waiting 5 seconds before moving to page 6...
+[2025-05-08 20:11:26] 
+Scraping page 6 of 150...
+[2025-05-08 20:11:26] Current URL: https://www.indeed.com/jobs?q=software+engineer&l=United+States&radius=50&start=50&vjk=e51a6f0786cdb686
+[2025-05-08 20:11:26] Found 15 job cards
+[2025-05-08 20:12:08] Successfully scraped 15 jobs from this page
+[2025-05-08 20:12:08] Total jobs scraped so far: 15
+[2025-05-08 20:12:09] Added 15 new jobs to master file
+[2025-05-08 20:12:09] Total jobs in master file: 90
+[2025-05-08 20:12:09] Backup saved to scraped_data\master_jobs_backup.csv
+[2025-05-08 20:12:09] Waiting 5 seconds before moving to page 7...
+[2025-05-08 20:12:18] 
+Scraping page 7 of 150...
+[2025-05-08 20:12:18] Current URL: https://www.indeed.com/jobs?q=software+engineer&l=United+States&radius=50&start=60&vjk=affccef90a238160
+[2025-05-08 20:12:18] Found 15 job cards
+[2025-05-08 20:12:58] Successfully scraped 15 jobs from this page
+[2025-05-08 20:12:58] Total jobs scraped so far: 15
+[2025-05-08 20:12:58] Added 15 new jobs to master file
+[2025-05-08 20:12:58] Total jobs in master file: 104
+[2025-05-08 20:12:58] Backup saved to scraped_data\master_jobs_backup.csv
+[2025-05-08 20:12:58] Waiting 5 seconds before moving to page 8...
+[2025-05-08 20:13:08] 
+Scraping page 8 of 150...
+[2025-05-08 20:13:08] Current URL: https://www.indeed.com/jobs?q=software+engineer&l=United+States&radius=50&start=70&vjk=665b300947e52356
+[2025-05-08 20:13:08] Found 15 job cards
+[2025-05-08 20:13:50] Successfully scraped 15 jobs from this page
+[2025-05-08 20:13:50] Total jobs scraped so far: 15
+[2025-05-08 20:13:50] Added 15 new jobs to master file
+[2025-05-08 20:13:50] Total jobs in master file: 119
+[2025-05-08 20:13:50] Backup saved to scraped_data\master_jobs_backup.csv
+[2025-05-08 20:13:50] Waiting 5 seconds before moving to page 9...
+[2025-05-08 20:14:00] 
+Scraping page 9 of 150...
+[2025-05-08 20:14:00] Current URL: https://www.indeed.com/jobs?q=software+engineer&l=United+States&radius=50&start=80&vjk=1add9755b9329d43
+[2025-05-08 20:14:00] Found 15 job cards
+[2025-05-08 20:14:41] Successfully scraped 15 jobs from this page
+[2025-05-08 20:14:41] Total jobs scraped so far: 15
+[2025-05-08 20:14:41] Added 15 new jobs to master file
+[2025-05-08 20:14:41] Total jobs in master file: 134
+[2025-05-08 20:14:41] Backup saved to scraped_data\master_jobs_backup.csv
+[2025-05-08 20:14:41] Waiting 5 seconds before moving to page 10...
+[2025-05-08 20:14:51] 
+Scraping page 10 of 150...
+[2025-05-08 20:14:51] Current URL: https://www.indeed.com/jobs?q=software+engineer&l=United+States&radius=50&start=90&vjk=cd18e6fe3ead1c91
+[2025-05-08 20:14:51] Found 15 job cards
+[2025-05-08 20:15:32] Successfully scraped 15 jobs from this page
+[2025-05-08 20:15:32] Total jobs scraped so far: 15
+[2025-05-08 20:15:32] Added 15 new jobs to master file
+[2025-05-08 20:15:32] Total jobs in master file: 147
+[2025-05-08 20:15:32] Backup saved to scraped_data\master_jobs_backup.csv
+[2025-05-08 20:15:32] Waiting 5 seconds before moving to page 11...
+[2025-05-08 20:15:41] 
+Scraping page 11 of 150...
+[2025-05-08 20:15:41] Current URL: https://www.indeed.com/jobs?q=software+engineer&l=United+States&radius=50&start=100&vjk=93de0cc5c5a83d91
+[2025-05-08 20:15:41] Found 15 job cards
+[2025-05-08 20:16:23] Successfully scraped 15 jobs from this page
+[2025-05-08 20:16:23] Total jobs scraped so far: 15
+[2025-05-08 20:16:23] Added 15 new jobs to master file
+[2025-05-08 20:16:23] Total jobs in master file: 157
+[2025-05-08 20:16:23] Backup saved to scraped_data\master_jobs_backup.csv
+[2025-05-08 20:16:23] Waiting 5 seconds before moving to page 12...
+[2025-05-08 20:16:32] 
+Scraping page 12 of 150...
+[2025-05-08 20:16:32] Current URL: https://www.indeed.com/jobs?q=software+engineer&l=United+States&radius=50&start=110&vjk=b2c6dcbc85fedfa8
+[2025-05-08 20:16:32] Found 15 job cards
+[2025-05-08 20:17:13] Successfully scraped 15 jobs from this page
+[2025-05-08 20:17:13] Total jobs scraped so far: 15
+[2025-05-08 20:17:13] Added 15 new jobs to master file
+[2025-05-08 20:17:13] Total jobs in master file: 171
+[2025-05-08 20:17:13] Backup saved to scraped_data\master_jobs_backup.csv
+[2025-05-08 20:17:13] Waiting 5 seconds before moving to page 13...
+[2025-05-08 20:17:22] 
+Scraping page 13 of 150...
+[2025-05-08 20:17:22] Current URL: https://www.indeed.com/jobs?q=software+engineer&l=United+States&radius=50&start=120&vjk=051e9541e111b0e0
+[2025-05-08 20:17:22] Found 15 job cards
+[2025-05-08 20:18:03] Successfully scraped 15 jobs from this page
+[2025-05-08 20:18:03] Total jobs scraped so far: 15
+[2025-05-08 20:18:03] Added 15 new jobs to master file
+[2025-05-08 20:18:03] Total jobs in master file: 182
+[2025-05-08 20:18:03] Backup saved to scraped_data\master_jobs_backup.csv
+[2025-05-08 20:18:03] Waiting 5 seconds before moving to page 14...
+[2025-05-08 20:18:13] 
+Scraping page 14 of 150...
+[2025-05-08 20:18:13] Current URL: https://www.indeed.com/jobs?q=software+engineer&l=United+States&radius=50&start=130&vjk=b03bd5cabba4c771
+[2025-05-08 20:18:13] Found 15 job cards
+[2025-05-08 20:18:54] Successfully scraped 15 jobs from this page
+[2025-05-08 20:18:54] Total jobs scraped so far: 15
+[2025-05-08 20:18:54] Added 15 new jobs to master file
+[2025-05-08 20:18:54] Total jobs in master file: 194
+[2025-05-08 20:18:54] Backup saved to scraped_data\master_jobs_backup.csv
+[2025-05-08 20:18:54] Waiting 5 seconds before moving to page 15...
+[2025-05-08 20:19:03] 
+Scraping page 15 of 150...
+[2025-05-08 20:19:03] Current URL: https://www.indeed.com/jobs?q=software+engineer&l=United+States&radius=50&start=140&vjk=bd61af0fc944c2de
+[2025-05-08 20:19:03] Found 15 job cards
+[2025-05-08 20:19:45] Successfully scraped 15 jobs from this page
+[2025-05-08 20:19:45] Total jobs scraped so far: 15
+[2025-05-08 20:19:45] Added 15 new jobs to master file
+[2025-05-08 20:19:45] Total jobs in master file: 207
+[2025-05-08 20:19:45] Backup saved to scraped_data\master_jobs_backup.csv
+[2025-05-08 20:19:45] Waiting 5 seconds before moving to page 16...
+[2025-05-08 20:19:54] 
+Scraping page 16 of 150...
+[2025-05-08 20:19:54] Current URL: https://www.indeed.com/jobs?q=software+engineer&l=United+States&radius=50&start=150&vjk=a36eef183b41433c
+[2025-05-08 20:19:54] Found 15 job cards
+[2025-05-08 20:20:36] Successfully scraped 15 jobs from this page
+[2025-05-08 20:20:36] Total jobs scraped so far: 15
+[2025-05-08 20:20:36] Added 15 new jobs to master file
+[2025-05-08 20:20:36] Total jobs in master file: 220
+[2025-05-08 20:20:36] Backup saved to scraped_data\master_jobs_backup.csv
+[2025-05-08 20:20:36] Waiting 5 seconds before moving to page 17...
+[2025-05-08 20:20:45] 
+Scraping page 17 of 150...
+[2025-05-08 20:20:45] Current URL: https://www.indeed.com/jobs?q=software+engineer&l=United+States&radius=50&start=160&vjk=673a3ce332e31bd2
+[2025-05-08 20:20:45] Found 15 job cards
+[2025-05-08 20:21:25] Successfully scraped 15 jobs from this page
+[2025-05-08 20:21:25] Total jobs scraped so far: 15
+[2025-05-08 20:21:25] Added 15 new jobs to master file
+[2025-05-08 20:21:25] Total jobs in master file: 231
+[2025-05-08 20:21:25] Backup saved to scraped_data\master_jobs_backup.csv
+[2025-05-08 20:21:25] Waiting 5 seconds before moving to page 18...
+[2025-05-08 20:21:34] 
+Scraping page 18 of 150...
+[2025-05-08 20:21:34] Current URL: https://www.indeed.com/jobs?q=software+engineer&l=United+States&radius=50&start=170&vjk=2f042fde5cf56f5d
+[2025-05-08 20:21:34] Found 15 job cards
+[2025-05-08 20:22:15] Successfully scraped 15 jobs from this page
+[2025-05-08 20:22:15] Total jobs scraped so far: 15
+[2025-05-08 20:22:15] Added 15 new jobs to master file
+[2025-05-08 20:22:15] Total jobs in master file: 240
+[2025-05-08 20:22:15] Backup saved to scraped_data\master_jobs_backup.csv
+[2025-05-08 20:22:15] Waiting 5 seconds before moving to page 19...
+[2025-05-08 20:22:24] 
+Scraping page 19 of 150...
+[2025-05-08 20:22:24] Current URL: https://www.indeed.com/jobs?q=software+engineer&l=United+States&radius=50&start=180&vjk=93de0cc5c5a83d91
+[2025-05-08 20:22:24] Found 15 job cards
+[2025-05-08 20:23:05] Successfully scraped 15 jobs from this page
+[2025-05-08 20:23:05] Total jobs scraped so far: 15
+[2025-05-08 20:23:05] Added 15 new jobs to master file
+[2025-05-08 20:23:05] Total jobs in master file: 250
+[2025-05-08 20:23:05] Backup saved to scraped_data\master_jobs_backup.csv
+[2025-05-08 20:23:05] Waiting 5 seconds before moving to page 20...
+[2025-05-08 20:23:14] 
+Scraping page 20 of 150...
+[2025-05-08 20:23:14] Current URL: https://www.indeed.com/jobs?q=software+engineer&l=United+States&radius=50&start=190&vjk=1add9755b9329d43
+[2025-05-08 20:23:14] Found 15 job cards
+[2025-05-08 20:23:55] Successfully scraped 15 jobs from this page
+[2025-05-08 20:23:55] Total jobs scraped so far: 15
+[2025-05-08 20:23:55] Added 15 new jobs to master file
+[2025-05-08 20:23:55] Total jobs in master file: 264
+[2025-05-08 20:23:55] Backup saved to scraped_data\master_jobs_backup.csv
+[2025-05-08 20:23:55] Waiting 5 seconds before moving to page 21...
+[2025-05-08 20:24:04] 
+Scraping page 21 of 150...
+[2025-05-08 20:24:04] Current URL: https://www.indeed.com/jobs?q=software+engineer&l=United+States&radius=50&start=200&vjk=dc3f619bf524f17e
+[2025-05-08 20:24:04] Found 15 job cards
+[2025-05-08 20:24:46] Successfully scraped 15 jobs from this page
+[2025-05-08 20:24:46] Total jobs scraped so far: 15
+[2025-05-08 20:24:46] Added 15 new jobs to master file
+[2025-05-08 20:24:46] Total jobs in master file: 273
+[2025-05-08 20:24:46] Backup saved to scraped_data\master_jobs_backup.csv
+[2025-05-08 20:24:46] Waiting 5 seconds before moving to page 22...
+[2025-05-08 20:24:55] 
+Scraping page 22 of 150...
+[2025-05-08 20:24:55] Current URL: https://www.indeed.com/jobs?q=software+engineer&l=United+States&radius=50&start=210&vjk=b03bd5cabba4c771
+[2025-05-08 20:24:55] Found 15 job cards
+[2025-05-08 20:25:37] Successfully scraped 15 jobs from this page
+[2025-05-08 20:25:37] Total jobs scraped so far: 15
+[2025-05-08 20:25:37] Added 15 new jobs to master file
+[2025-05-08 20:25:37] Total jobs in master file: 283
+[2025-05-08 20:25:37] Backup saved to scraped_data\master_jobs_backup.csv
+[2025-05-08 20:25:37] Waiting 5 seconds before moving to page 23...
+[2025-05-08 20:25:46] 
+Scraping page 23 of 150...
+[2025-05-08 20:25:46] Current URL: https://www.indeed.com/jobs?q=software+engineer&l=United+States&radius=50&start=220&vjk=65fada029df9563e
+[2025-05-08 20:25:46] Found 15 job cards
+[2025-05-08 20:26:27] Successfully scraped 15 jobs from this page
+[2025-05-08 20:26:27] Total jobs scraped so far: 15
+[2025-05-08 20:26:27] Added 15 new jobs to master file
+[2025-05-08 20:26:27] Total jobs in master file: 292
+[2025-05-08 20:26:27] Backup saved to scraped_data\master_jobs_backup.csv
+[2025-05-08 20:26:27] Waiting 5 seconds before moving to page 24...
+[2025-05-08 20:26:36] 
+Scraping page 24 of 150...
+[2025-05-08 20:26:36] Current URL: https://www.indeed.com/jobs?q=software+engineer&l=United+States&radius=50&start=230&vjk=b03bd5cabba4c771
+[2025-05-08 20:26:36] Found 15 job cards
+[2025-05-08 20:27:17] Successfully scraped 15 jobs from this page
+[2025-05-08 20:27:17] Total jobs scraped so far: 15
+[2025-05-08 20:27:18] Added 15 new jobs to master file
+[2025-05-08 20:27:18] Total jobs in master file: 304
+[2025-05-08 20:27:18] Backup saved to scraped_data\master_jobs_backup.csv
+[2025-05-08 20:27:18] Waiting 5 seconds before moving to page 25...
+[2025-05-08 20:27:27] 
+Scraping page 25 of 150...
+[2025-05-08 20:27:27] Current URL: https://www.indeed.com/jobs?q=software+engineer&l=United+States&radius=50&start=240&vjk=04b31108f0f1b963
+[2025-05-08 20:27:27] Found 15 job cards
+[2025-05-08 20:28:10] Successfully scraped 15 jobs from this page
+[2025-05-08 20:28:10] Total jobs scraped so far: 15
+[2025-05-08 20:28:10] Added 15 new jobs to master file
+[2025-05-08 20:28:10] Total jobs in master file: 314
+[2025-05-08 20:28:10] Backup saved to scraped_data\master_jobs_backup.csv
+[2025-05-08 20:28:10] Waiting 5 seconds before moving to page 26...
+[2025-05-08 20:28:19] 
+Scraping page 26 of 150...
+[2025-05-08 20:28:19] Current URL: https://www.indeed.com/jobs?q=software+engineer&l=United+States&radius=50&start=250&vjk=0876949d038a15f1
+[2025-05-08 20:28:19] Found 15 job cards
+[2025-05-08 20:29:00] Successfully scraped 15 jobs from this page
+[2025-05-08 20:29:00] Total jobs scraped so far: 15
+[2025-05-08 20:29:00] Added 15 new jobs to master file
+[2025-05-08 20:29:00] Total jobs in master file: 327
+[2025-05-08 20:29:00] Backup saved to scraped_data\master_jobs_backup.csv
+[2025-05-08 20:29:00] Waiting 5 seconds before moving to page 27...
+[2025-05-08 20:29:09] 
+Scraping page 27 of 150...
+[2025-05-08 20:29:09] Current URL: https://www.indeed.com/jobs?q=software+engineer&l=United+States&radius=50&start=260&vjk=e3f12de3bcd5d5b1
+[2025-05-08 20:29:09] Found 15 job cards
+[2025-05-08 20:29:50] Successfully scraped 15 jobs from this page
+[2025-05-08 20:29:50] Total jobs scraped so far: 15
+[2025-05-08 20:29:50] Added 15 new jobs to master file
+[2025-05-08 20:29:50] Total jobs in master file: 337
+[2025-05-08 20:29:50] Backup saved to scraped_data\master_jobs_backup.csv
+[2025-05-08 20:29:50] Waiting 5 seconds before moving to page 28...
+[2025-05-08 20:29:59] 
+Scraping page 28 of 150...
+[2025-05-08 20:29:59] Current URL: https://www.indeed.com/jobs?q=software+engineer&l=United+States&radius=50&start=270&vjk=bde8f149e88dea1e
+[2025-05-08 20:29:59] Found 15 job cards
+[2025-05-08 20:30:41] Successfully scraped 15 jobs from this page
+[2025-05-08 20:30:41] Total jobs scraped so far: 15
+[2025-05-08 20:30:41] Added 15 new jobs to master file
+[2025-05-08 20:30:41] Total jobs in master file: 346
+[2025-05-08 20:30:41] Backup saved to scraped_data\master_jobs_backup.csv
+[2025-05-08 20:30:41] Waiting 5 seconds before moving to page 29...
+[2025-05-08 20:30:50] 
+Scraping page 29 of 150...
+[2025-05-08 20:30:50] Current URL: https://www.indeed.com/jobs?q=software+engineer&l=United+States&radius=50&start=280&vjk=159fb01a66f30b2b
+[2025-05-08 20:30:50] Found 15 job cards
+[2025-05-08 20:31:31] Successfully scraped 15 jobs from this page
+[2025-05-08 20:31:31] Total jobs scraped so far: 15
+[2025-05-08 20:31:31] Added 15 new jobs to master file
+[2025-05-08 20:31:31] Total jobs in master file: 359
+[2025-05-08 20:31:31] Backup saved to scraped_data\master_jobs_backup.csv
+[2025-05-08 20:31:31] Waiting 5 seconds before moving to page 30...
+[2025-05-08 20:31:40] 
+Scraping page 30 of 150...
+[2025-05-08 20:31:40] Current URL: https://www.indeed.com/jobs?q=software+engineer&l=United+States&radius=50&start=290&vjk=03616222f7fd152f
+[2025-05-08 20:31:40] Found 15 job cards
+[2025-05-08 20:32:21] Successfully scraped 15 jobs from this page
+[2025-05-08 20:32:21] Total jobs scraped so far: 15
+[2025-05-08 20:32:21] Added 15 new jobs to master file
+[2025-05-08 20:32:21] Total jobs in master file: 371
+[2025-05-08 20:32:21] Backup saved to scraped_data\master_jobs_backup.csv
+[2025-05-08 20:32:21] Waiting 5 seconds before moving to page 31...
+[2025-05-08 20:32:30] 
+Scraping page 31 of 150...
+[2025-05-08 20:32:30] Current URL: https://www.indeed.com/jobs?q=software+engineer&l=United+States&radius=50&start=300&vjk=50ffc462999bd555
+[2025-05-08 20:32:30] Found 15 job cards
+[2025-05-08 20:33:13] Successfully scraped 15 jobs from this page
+[2025-05-08 20:33:13] Total jobs scraped so far: 15
+[2025-05-08 20:33:13] Added 15 new jobs to master file
+[2025-05-08 20:33:13] Total jobs in master file: 375
+[2025-05-08 20:33:13] Backup saved to scraped_data\master_jobs_backup.csv
+[2025-05-08 20:33:13] Waiting 5 seconds before moving to page 32...
+[2025-05-08 20:33:22] 
+Scraping page 32 of 150...
+[2025-05-08 20:33:22] Current URL: https://www.indeed.com/jobs?q=software+engineer&l=United+States&radius=50&start=310&vjk=17b675b014781a15
+[2025-05-08 20:33:22] Found 15 job cards
+[2025-05-08 20:34:04] Successfully scraped 15 jobs from this page
+[2025-05-08 20:34:04] Total jobs scraped so far: 15
+[2025-05-08 20:34:04] Added 15 new jobs to master file
+[2025-05-08 20:34:04] Total jobs in master file: 383
+[2025-05-08 20:34:04] Backup saved to scraped_data\master_jobs_backup.csv
+[2025-05-08 20:34:04] Waiting 5 seconds before moving to page 33...
+[2025-05-08 20:34:13] 
+Scraping page 33 of 150...
+[2025-05-08 20:34:13] Current URL: https://www.indeed.com/jobs?q=software+engineer&l=United+States&radius=50&start=320&vjk=6928b8c6540a2b32
+[2025-05-08 20:34:13] Found 15 job cards
+[2025-05-08 20:34:54] Successfully scraped 15 jobs from this page
+[2025-05-08 20:34:54] Total jobs scraped so far: 15
+[2025-05-08 20:34:54] Added 15 new jobs to master file
+[2025-05-08 20:34:54] Total jobs in master file: 393
+[2025-05-08 20:34:54] Backup saved to scraped_data\master_jobs_backup.csv
+[2025-05-08 20:34:54] Waiting 5 seconds before moving to page 34...
+[2025-05-08 20:35:03] 
+Scraping page 34 of 150...
+[2025-05-08 20:35:03] Current URL: https://www.indeed.com/jobs?q=software+engineer&l=United+States&radius=50&start=330&vjk=7dab825d2d727477
+[2025-05-08 20:35:03] Found 15 job cards
+[2025-05-08 20:35:44] Successfully scraped 15 jobs from this page
+[2025-05-08 20:35:44] Total jobs scraped so far: 15
+[2025-05-08 20:35:44] Added 15 new jobs to master file
+[2025-05-08 20:35:44] Total jobs in master file: 405
+[2025-05-08 20:35:44] Backup saved to scraped_data\master_jobs_backup.csv
+[2025-05-08 20:35:44] Waiting 5 seconds before moving to page 35...
+[2025-05-08 20:35:54] 
+Scraping page 35 of 150...
+[2025-05-08 20:35:54] Current URL: https://www.indeed.com/jobs?q=software+engineer&l=United+States&radius=50&start=340&vjk=673a3ce332e31bd2
+[2025-05-08 20:35:54] Found 15 job cards
+[2025-05-08 20:36:35] Successfully scraped 15 jobs from this page
+[2025-05-08 20:36:35] Total jobs scraped so far: 15
+[2025-05-08 20:36:35] Added 15 new jobs to master file
+[2025-05-08 20:36:35] Total jobs in master file: 413
+[2025-05-08 20:36:35] Backup saved to scraped_data\master_jobs_backup.csv
+[2025-05-08 20:36:35] Waiting 5 seconds before moving to page 36...
+[2025-05-08 20:36:44] 
+Scraping page 36 of 150...
+[2025-05-08 20:36:44] Current URL: https://www.indeed.com/jobs?q=software+engineer&l=United+States&radius=50&start=350&vjk=a967338d0c940306
+[2025-05-08 20:36:44] Found 15 job cards
+[2025-05-08 20:37:14] Error getting job description: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00EEFC53+61635]
+	GetHandleVerifier [0x00EEFC94+61700]
+	(No symbol) [0x00D105D3]
+	(No symbol) [0x00D5899E]
+	(No symbol) [0x00D58D3B]
+	(No symbol) [0x00DA0E12]
+	(No symbol) [0x00D7D2E4]
+	(No symbol) [0x00D9E61B]
+	(No symbol) [0x00D7D096]
+	(No symbol) [0x00D4C840]
+	(No symbol) [0x00D4D6A4]
+	GetHandleVerifier [0x01174573+2701795]
+	GetHandleVerifier [0x0116FCF6+2683238]
+	GetHandleVerifier [0x0118AA3E+2793134]
+	GetHandleVerifier [0x00F06915+155013]
+	GetHandleVerifier [0x00F0CFFD+181357]
+	GetHandleVerifier [0x00EF74A8+92440]
+	GetHandleVerifier [0x00EF7650+92864]
+	GetHandleVerifier [0x00EE2040+5296]
+	BaseThreadInitThunk [0x75E95D49+25]
+	RtlInitializeExceptionChain [0x7747CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7747CE91+561]
+
+[2025-05-08 20:37:14] Error getting job description: Message: stale element reference: stale element not found
+  (Session info: chrome=136.0.7103.93); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00EEFC53+61635]
+	GetHandleVerifier [0x00EEFC94+61700]
+	(No symbol) [0x00D105D3]
+	(No symbol) [0x00D22061]
+	(No symbol) [0x00D21140]
+	(No symbol) [0x00D17880]
+	(No symbol) [0x00D15D81]
+	(No symbol) [0x00D190CA]
+	(No symbol) [0x00D19147]
+	(No symbol) [0x00D58234]
+	(No symbol) [0x00D58D3B]
+	(No symbol) [0x00D4E111]
+	(No symbol) [0x00D7D2E4]
+	(No symbol) [0x00D4E034]
+	(No symbol) [0x00D7D514]
+	(No symbol) [0x00D9E61B]
+	(No symbol) [0x00D7D096]
+	(No symbol) [0x00D4C840]
+	(No symbol) [0x00D4D6A4]
+	GetHandleVerifier [0x01174573+2701795]
+	GetHandleVerifier [0x0116FCF6+2683238]
+	GetHandleVerifier [0x0118AA3E+2793134]
+	GetHandleVerifier [0x00F06915+155013]
+	GetHandleVerifier [0x00F0CFFD+181357]
+	GetHandleVerifier [0x00EF74A8+92440]
+	GetHandleVerifier [0x00EF7650+92864]
+	GetHandleVerifier [0x00EE2040+5296]
+	BaseThreadInitThunk [0x75E95D49+25]
+	RtlInitializeExceptionChain [0x7747CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7747CE91+561]
+
+[2025-05-08 20:37:14] 
+Debug - Job card HTML:
+[2025-05-08 20:37:14] Error extracting job data: Message: stale element reference: stale element not found
+  (Session info: chrome=136.0.7103.93); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00EEFC53+61635]
+	GetHandleVerifier [0x00EEFC94+61700]
+	(No symbol) [0x00D105D3]
+	(No symbol) [0x00D22061]
+	(No symbol) [0x00D21140]
+	(No symbol) [0x00D17880]
+	(No symbol) [0x00D1795C]
+	(No symbol) [0x00D15D81]
+	(No symbol) [0x00D19335]
+	(No symbol) [0x00D9F531]
+	(No symbol) [0x00D7D29C]
+	(No symbol) [0x00D9E61B]
+	(No symbol) [0x00D7D096]
+	(No symbol) [0x00D4C840]
+	(No symbol) [0x00D4D6A4]
+	GetHandleVerifier [0x01174573+2701795]
+	GetHandleVerifier [0x0116FCF6+2683238]
+	GetHandleVerifier [0x0118AA3E+2793134]
+	GetHandleVerifier [0x00F06915+155013]
+	GetHandleVerifier [0x00F0CFFD+181357]
+	GetHandleVerifier [0x00EF74A8+92440]
+	GetHandleVerifier [0x00EF7650+92864]
+	GetHandleVerifier [0x00EE2040+5296]
+	BaseThreadInitThunk [0x75E95D49+25]
+	RtlInitializeExceptionChain [0x7747CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7747CE91+561]
+
+[2025-05-08 20:37:14] Error getting job description: Message: stale element reference: stale element not found
+  (Session info: chrome=136.0.7103.93); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00EEFC53+61635]
+	GetHandleVerifier [0x00EEFC94+61700]
+	(No symbol) [0x00D105D3]
+	(No symbol) [0x00D22061]
+	(No symbol) [0x00D21140]
+	(No symbol) [0x00D17880]
+	(No symbol) [0x00D15D81]
+	(No symbol) [0x00D190CA]
+	(No symbol) [0x00D19147]
+	(No symbol) [0x00D58234]
+	(No symbol) [0x00D58D3B]
+	(No symbol) [0x00D4E111]
+	(No symbol) [0x00D7D2E4]
+	(No symbol) [0x00D4E034]
+	(No symbol) [0x00D7D514]
+	(No symbol) [0x00D9E61B]
+	(No symbol) [0x00D7D096]
+	(No symbol) [0x00D4C840]
+	(No symbol) [0x00D4D6A4]
+	GetHandleVerifier [0x01174573+2701795]
+	GetHandleVerifier [0x0116FCF6+2683238]
+	GetHandleVerifier [0x0118AA3E+2793134]
+	GetHandleVerifier [0x00F06915+155013]
+	GetHandleVerifier [0x00F0CFFD+181357]
+	GetHandleVerifier [0x00EF74A8+92440]
+	GetHandleVerifier [0x00EF7650+92864]
+	GetHandleVerifier [0x00EE2040+5296]
+	BaseThreadInitThunk [0x75E95D49+25]
+	RtlInitializeExceptionChain [0x7747CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7747CE91+561]
+
+[2025-05-08 20:37:14] 
+Debug - Job card HTML:
+[2025-05-08 20:37:14] Error extracting job data: Message: stale element reference: stale element not found
+  (Session info: chrome=136.0.7103.93); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00EEFC53+61635]
+	GetHandleVerifier [0x00EEFC94+61700]
+	(No symbol) [0x00D105D3]
+	(No symbol) [0x00D22061]
+	(No symbol) [0x00D21140]
+	(No symbol) [0x00D17880]
+	(No symbol) [0x00D1795C]
+	(No symbol) [0x00D15D81]
+	(No symbol) [0x00D19335]
+	(No symbol) [0x00D9F531]
+	(No symbol) [0x00D7D29C]
+	(No symbol) [0x00D9E61B]
+	(No symbol) [0x00D7D096]
+	(No symbol) [0x00D4C840]
+	(No symbol) [0x00D4D6A4]
+	GetHandleVerifier [0x01174573+2701795]
+	GetHandleVerifier [0x0116FCF6+2683238]
+	GetHandleVerifier [0x0118AA3E+2793134]
+	GetHandleVerifier [0x00F06915+155013]
+	GetHandleVerifier [0x00F0CFFD+181357]
+	GetHandleVerifier [0x00EF74A8+92440]
+	GetHandleVerifier [0x00EF7650+92864]
+	GetHandleVerifier [0x00EE2040+5296]
+	BaseThreadInitThunk [0x75E95D49+25]
+	RtlInitializeExceptionChain [0x7747CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7747CE91+561]
+
+[2025-05-08 20:37:14] Error getting job description: Message: stale element reference: stale element not found
+  (Session info: chrome=136.0.7103.93); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00EEFC53+61635]
+	GetHandleVerifier [0x00EEFC94+61700]
+	(No symbol) [0x00D105D3]
+	(No symbol) [0x00D22061]
+	(No symbol) [0x00D21140]
+	(No symbol) [0x00D17880]
+	(No symbol) [0x00D15D81]
+	(No symbol) [0x00D190CA]
+	(No symbol) [0x00D19147]
+	(No symbol) [0x00D58234]
+	(No symbol) [0x00D58D3B]
+	(No symbol) [0x00D4E111]
+	(No symbol) [0x00D7D2E4]
+	(No symbol) [0x00D4E034]
+	(No symbol) [0x00D7D514]
+	(No symbol) [0x00D9E61B]
+	(No symbol) [0x00D7D096]
+	(No symbol) [0x00D4C840]
+	(No symbol) [0x00D4D6A4]
+	GetHandleVerifier [0x01174573+2701795]
+	GetHandleVerifier [0x0116FCF6+2683238]
+	GetHandleVerifier [0x0118AA3E+2793134]
+	GetHandleVerifier [0x00F06915+155013]
+	GetHandleVerifier [0x00F0CFFD+181357]
+	GetHandleVerifier [0x00EF74A8+92440]
+	GetHandleVerifier [0x00EF7650+92864]
+	GetHandleVerifier [0x00EE2040+5296]
+	BaseThreadInitThunk [0x75E95D49+25]
+	RtlInitializeExceptionChain [0x7747CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7747CE91+561]
+
+[2025-05-08 20:37:14] 
+Debug - Job card HTML:
+[2025-05-08 20:37:14] Error extracting job data: Message: stale element reference: stale element not found
+  (Session info: chrome=136.0.7103.93); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00EEFC53+61635]
+	GetHandleVerifier [0x00EEFC94+61700]
+	(No symbol) [0x00D105D3]
+	(No symbol) [0x00D22061]
+	(No symbol) [0x00D21140]
+	(No symbol) [0x00D17880]
+	(No symbol) [0x00D1795C]
+	(No symbol) [0x00D15D81]
+	(No symbol) [0x00D19335]
+	(No symbol) [0x00D9F531]
+	(No symbol) [0x00D7D29C]
+	(No symbol) [0x00D9E61B]
+	(No symbol) [0x00D7D096]
+	(No symbol) [0x00D4C840]
+	(No symbol) [0x00D4D6A4]
+	GetHandleVerifier [0x01174573+2701795]
+	GetHandleVerifier [0x0116FCF6+2683238]
+	GetHandleVerifier [0x0118AA3E+2793134]
+	GetHandleVerifier [0x00F06915+155013]
+	GetHandleVerifier [0x00F0CFFD+181357]
+	GetHandleVerifier [0x00EF74A8+92440]
+	GetHandleVerifier [0x00EF7650+92864]
+	GetHandleVerifier [0x00EE2040+5296]
+	BaseThreadInitThunk [0x75E95D49+25]
+	RtlInitializeExceptionChain [0x7747CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7747CE91+561]
+
+[2025-05-08 20:37:14] Error getting job description: Message: stale element reference: stale element not found
+  (Session info: chrome=136.0.7103.93); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00EEFC53+61635]
+	GetHandleVerifier [0x00EEFC94+61700]
+	(No symbol) [0x00D105D3]
+	(No symbol) [0x00D22061]
+	(No symbol) [0x00D21140]
+	(No symbol) [0x00D17880]
+	(No symbol) [0x00D15D81]
+	(No symbol) [0x00D190CA]
+	(No symbol) [0x00D19147]
+	(No symbol) [0x00D58234]
+	(No symbol) [0x00D58D3B]
+	(No symbol) [0x00D4E111]
+	(No symbol) [0x00D7D2E4]
+	(No symbol) [0x00D4E034]
+	(No symbol) [0x00D7D514]
+	(No symbol) [0x00D9E61B]
+	(No symbol) [0x00D7D096]
+	(No symbol) [0x00D4C840]
+	(No symbol) [0x00D4D6A4]
+	GetHandleVerifier [0x01174573+2701795]
+	GetHandleVerifier [0x0116FCF6+2683238]
+	GetHandleVerifier [0x0118AA3E+2793134]
+	GetHandleVerifier [0x00F06915+155013]
+	GetHandleVerifier [0x00F0CFFD+181357]
+	GetHandleVerifier [0x00EF74A8+92440]
+	GetHandleVerifier [0x00EF7650+92864]
+	GetHandleVerifier [0x00EE2040+5296]
+	BaseThreadInitThunk [0x75E95D49+25]
+	RtlInitializeExceptionChain [0x7747CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7747CE91+561]
+
+[2025-05-08 20:37:14] 
+Debug - Job card HTML:
+[2025-05-08 20:37:14] Error extracting job data: Message: stale element reference: stale element not found
+  (Session info: chrome=136.0.7103.93); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00EEFC53+61635]
+	GetHandleVerifier [0x00EEFC94+61700]
+	(No symbol) [0x00D105D3]
+	(No symbol) [0x00D22061]
+	(No symbol) [0x00D21140]
+	(No symbol) [0x00D17880]
+	(No symbol) [0x00D1795C]
+	(No symbol) [0x00D15D81]
+	(No symbol) [0x00D19335]
+	(No symbol) [0x00D9F531]
+	(No symbol) [0x00D7D29C]
+	(No symbol) [0x00D9E61B]
+	(No symbol) [0x00D7D096]
+	(No symbol) [0x00D4C840]
+	(No symbol) [0x00D4D6A4]
+	GetHandleVerifier [0x01174573+2701795]
+	GetHandleVerifier [0x0116FCF6+2683238]
+	GetHandleVerifier [0x0118AA3E+2793134]
+	GetHandleVerifier [0x00F06915+155013]
+	GetHandleVerifier [0x00F0CFFD+181357]
+	GetHandleVerifier [0x00EF74A8+92440]
+	GetHandleVerifier [0x00EF7650+92864]
+	GetHandleVerifier [0x00EE2040+5296]
+	BaseThreadInitThunk [0x75E95D49+25]
+	RtlInitializeExceptionChain [0x7747CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7747CE91+561]
+
+[2025-05-08 20:37:14] Error getting job description: Message: stale element reference: stale element not found
+  (Session info: chrome=136.0.7103.93); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00EEFC53+61635]
+	GetHandleVerifier [0x00EEFC94+61700]
+	(No symbol) [0x00D105D3]
+	(No symbol) [0x00D22061]
+	(No symbol) [0x00D21140]
+	(No symbol) [0x00D17880]
+	(No symbol) [0x00D15D81]
+	(No symbol) [0x00D190CA]
+	(No symbol) [0x00D19147]
+	(No symbol) [0x00D58234]
+	(No symbol) [0x00D58D3B]
+	(No symbol) [0x00D4E111]
+	(No symbol) [0x00D7D2E4]
+	(No symbol) [0x00D4E034]
+	(No symbol) [0x00D7D514]
+	(No symbol) [0x00D9E61B]
+	(No symbol) [0x00D7D096]
+	(No symbol) [0x00D4C840]
+	(No symbol) [0x00D4D6A4]
+	GetHandleVerifier [0x01174573+2701795]
+	GetHandleVerifier [0x0116FCF6+2683238]
+	GetHandleVerifier [0x0118AA3E+2793134]
+	GetHandleVerifier [0x00F06915+155013]
+	GetHandleVerifier [0x00F0CFFD+181357]
+	GetHandleVerifier [0x00EF74A8+92440]
+	GetHandleVerifier [0x00EF7650+92864]
+	GetHandleVerifier [0x00EE2040+5296]
+	BaseThreadInitThunk [0x75E95D49+25]
+	RtlInitializeExceptionChain [0x7747CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7747CE91+561]
+
+[2025-05-08 20:37:14] 
+Debug - Job card HTML:
+[2025-05-08 20:37:14] Error extracting job data: Message: stale element reference: stale element not found
+  (Session info: chrome=136.0.7103.93); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00EEFC53+61635]
+	GetHandleVerifier [0x00EEFC94+61700]
+	(No symbol) [0x00D105D3]
+	(No symbol) [0x00D22061]
+	(No symbol) [0x00D21140]
+	(No symbol) [0x00D17880]
+	(No symbol) [0x00D1795C]
+	(No symbol) [0x00D15D81]
+	(No symbol) [0x00D19335]
+	(No symbol) [0x00D9F531]
+	(No symbol) [0x00D7D29C]
+	(No symbol) [0x00D9E61B]
+	(No symbol) [0x00D7D096]
+	(No symbol) [0x00D4C840]
+	(No symbol) [0x00D4D6A4]
+	GetHandleVerifier [0x01174573+2701795]
+	GetHandleVerifier [0x0116FCF6+2683238]
+	GetHandleVerifier [0x0118AA3E+2793134]
+	GetHandleVerifier [0x00F06915+155013]
+	GetHandleVerifier [0x00F0CFFD+181357]
+	GetHandleVerifier [0x00EF74A8+92440]
+	GetHandleVerifier [0x00EF7650+92864]
+	GetHandleVerifier [0x00EE2040+5296]
+	BaseThreadInitThunk [0x75E95D49+25]
+	RtlInitializeExceptionChain [0x7747CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7747CE91+561]
+
+[2025-05-08 20:37:14] Error getting job description: Message: stale element reference: stale element not found
+  (Session info: chrome=136.0.7103.93); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00EEFC53+61635]
+	GetHandleVerifier [0x00EEFC94+61700]
+	(No symbol) [0x00D105D3]
+	(No symbol) [0x00D22061]
+	(No symbol) [0x00D21140]
+	(No symbol) [0x00D17880]
+	(No symbol) [0x00D15D81]
+	(No symbol) [0x00D190CA]
+	(No symbol) [0x00D19147]
+	(No symbol) [0x00D58234]
+	(No symbol) [0x00D58D3B]
+	(No symbol) [0x00D4E111]
+	(No symbol) [0x00D7D2E4]
+	(No symbol) [0x00D4E034]
+	(No symbol) [0x00D7D514]
+	(No symbol) [0x00D9E61B]
+	(No symbol) [0x00D7D096]
+	(No symbol) [0x00D4C840]
+	(No symbol) [0x00D4D6A4]
+	GetHandleVerifier [0x01174573+2701795]
+	GetHandleVerifier [0x0116FCF6+2683238]
+	GetHandleVerifier [0x0118AA3E+2793134]
+	GetHandleVerifier [0x00F06915+155013]
+	GetHandleVerifier [0x00F0CFFD+181357]
+	GetHandleVerifier [0x00EF74A8+92440]
+	GetHandleVerifier [0x00EF7650+92864]
+	GetHandleVerifier [0x00EE2040+5296]
+	BaseThreadInitThunk [0x75E95D49+25]
+	RtlInitializeExceptionChain [0x7747CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7747CE91+561]
+
+[2025-05-08 20:37:14] 
+Debug - Job card HTML:
+[2025-05-08 20:37:14] Error extracting job data: Message: stale element reference: stale element not found
+  (Session info: chrome=136.0.7103.93); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00EEFC53+61635]
+	GetHandleVerifier [0x00EEFC94+61700]
+	(No symbol) [0x00D105D3]
+	(No symbol) [0x00D22061]
+	(No symbol) [0x00D21140]
+	(No symbol) [0x00D17880]
+	(No symbol) [0x00D1795C]
+	(No symbol) [0x00D15D81]
+	(No symbol) [0x00D19335]
+	(No symbol) [0x00D9F531]
+	(No symbol) [0x00D7D29C]
+	(No symbol) [0x00D9E61B]
+	(No symbol) [0x00D7D096]
+	(No symbol) [0x00D4C840]
+	(No symbol) [0x00D4D6A4]
+	GetHandleVerifier [0x01174573+2701795]
+	GetHandleVerifier [0x0116FCF6+2683238]
+	GetHandleVerifier [0x0118AA3E+2793134]
+	GetHandleVerifier [0x00F06915+155013]
+	GetHandleVerifier [0x00F0CFFD+181357]
+	GetHandleVerifier [0x00EF74A8+92440]
+	GetHandleVerifier [0x00EF7650+92864]
+	GetHandleVerifier [0x00EE2040+5296]
+	BaseThreadInitThunk [0x75E95D49+25]
+	RtlInitializeExceptionChain [0x7747CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7747CE91+561]
+
+[2025-05-08 20:37:14] Error getting job description: Message: stale element reference: stale element not found
+  (Session info: chrome=136.0.7103.93); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00EEFC53+61635]
+	GetHandleVerifier [0x00EEFC94+61700]
+	(No symbol) [0x00D105D3]
+	(No symbol) [0x00D22061]
+	(No symbol) [0x00D21140]
+	(No symbol) [0x00D17880]
+	(No symbol) [0x00D15D81]
+	(No symbol) [0x00D190CA]
+	(No symbol) [0x00D19147]
+	(No symbol) [0x00D58234]
+	(No symbol) [0x00D58D3B]
+	(No symbol) [0x00D4E111]
+	(No symbol) [0x00D7D2E4]
+	(No symbol) [0x00D4E034]
+	(No symbol) [0x00D7D514]
+	(No symbol) [0x00D9E61B]
+	(No symbol) [0x00D7D096]
+	(No symbol) [0x00D4C840]
+	(No symbol) [0x00D4D6A4]
+	GetHandleVerifier [0x01174573+2701795]
+	GetHandleVerifier [0x0116FCF6+2683238]
+	GetHandleVerifier [0x0118AA3E+2793134]
+	GetHandleVerifier [0x00F06915+155013]
+	GetHandleVerifier [0x00F0CFFD+181357]
+	GetHandleVerifier [0x00EF74A8+92440]
+	GetHandleVerifier [0x00EF7650+92864]
+	GetHandleVerifier [0x00EE2040+5296]
+	BaseThreadInitThunk [0x75E95D49+25]
+	RtlInitializeExceptionChain [0x7747CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7747CE91+561]
+
+[2025-05-08 20:37:14] 
+Debug - Job card HTML:
+[2025-05-08 20:37:14] Error extracting job data: Message: stale element reference: stale element not found
+  (Session info: chrome=136.0.7103.93); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00EEFC53+61635]
+	GetHandleVerifier [0x00EEFC94+61700]
+	(No symbol) [0x00D105D3]
+	(No symbol) [0x00D22061]
+	(No symbol) [0x00D21140]
+	(No symbol) [0x00D17880]
+	(No symbol) [0x00D1795C]
+	(No symbol) [0x00D15D81]
+	(No symbol) [0x00D19335]
+	(No symbol) [0x00D9F531]
+	(No symbol) [0x00D7D29C]
+	(No symbol) [0x00D9E61B]
+	(No symbol) [0x00D7D096]
+	(No symbol) [0x00D4C840]
+	(No symbol) [0x00D4D6A4]
+	GetHandleVerifier [0x01174573+2701795]
+	GetHandleVerifier [0x0116FCF6+2683238]
+	GetHandleVerifier [0x0118AA3E+2793134]
+	GetHandleVerifier [0x00F06915+155013]
+	GetHandleVerifier [0x00F0CFFD+181357]
+	GetHandleVerifier [0x00EF74A8+92440]
+	GetHandleVerifier [0x00EF7650+92864]
+	GetHandleVerifier [0x00EE2040+5296]
+	BaseThreadInitThunk [0x75E95D49+25]
+	RtlInitializeExceptionChain [0x7747CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7747CE91+561]
+
+[2025-05-08 20:37:14] Successfully scraped 8 jobs from this page
+[2025-05-08 20:37:14] Total jobs scraped so far: 8
+[2025-05-08 20:37:14] Added 8 new jobs to master file
+[2025-05-08 20:37:14] Total jobs in master file: 419
+[2025-05-08 20:37:14] Backup saved to scraped_data\master_jobs_backup.csv
+[2025-05-08 20:37:14] Waiting 5 seconds before moving to page 37...
+[2025-05-08 20:37:19] Error navigating to next page: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[aria-label='Next Page']"}
+  (Session info: chrome=136.0.7103.93); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00EEFC53+61635]
+	GetHandleVerifier [0x00EEFC94+61700]
+	(No symbol) [0x00D105D3]
+	(No symbol) [0x00D5899E]
+	(No symbol) [0x00D58D3B]
+	(No symbol) [0x00DA0E12]
+	(No symbol) [0x00D7D2E4]
+	(No symbol) [0x00D9E61B]
+	(No symbol) [0x00D7D096]
+	(No symbol) [0x00D4C840]
+	(No symbol) [0x00D4D6A4]
+	GetHandleVerifier [0x01174573+2701795]
+	GetHandleVerifier [0x0116FCF6+2683238]
+	GetHandleVerifier [0x0118AA3E+2793134]
+	GetHandleVerifier [0x00F06915+155013]
+	GetHandleVerifier [0x00F0CFFD+181357]
+	GetHandleVerifier [0x00EF74A8+92440]
+	GetHandleVerifier [0x00EF7650+92864]
+	GetHandleVerifier [0x00EE2040+5296]
+	BaseThreadInitThunk [0x75E95D49+25]
+	RtlInitializeExceptionChain [0x7747CF0B+107]
+	RtlGetAppContainerNamedObjectPath [0x7747CE91+561]
+
+[2025-05-08 20:37:19] Trying alternative navigation method...
+[2025-05-08 20:37:19] Could not navigate to next page
+[2025-05-08 20:37:19] 
+Scraping completed. Total jobs scraped in this session: 0
+[2025-05-08 20:37:19] Master file: scraped_data\master_jobs.csv
+[2025-05-08 20:37:19] Backup file: scraped_data\master_jobs_backup.csv
+[2025-05-08 20:37:19] Log file: scraped_data\scraping_log_20250508_200649.txt

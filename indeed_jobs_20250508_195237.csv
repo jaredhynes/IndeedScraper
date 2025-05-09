@@ -1,0 +1,623 @@
+title,company,location,rating,salary,job_type,description,date,scraped_date
+Full Stack Developer,Triple Helix Corporation,Remote,,"$80,000 - $85,000 a year","Full-time, Monday to Friday
++2","Triple Helix Corporation is searching for a highly motivated and passionate application developer with huge potential to design and implement web applications across a wide range of industries. This position allows you to work remotely with limited travel required.
+We are looking for experienced PHP application developers with experience in Laravel and some with Vue 3.
+Responsibilities:
+Develop web-based applications using Laravel framework (version 12 onward with some legacy maintenance of previous versions).
+Implement database migrations, adhere to Model-View-Controller (MVC) architectural standards, write SQL queries, and utilize the Eloquent ORM
+Leverage Vue.JS with the Inertia.js library, as well as Livewire for legacy sites.
+Create and maintain documentation (inside source code and external documents) using best industry standards and practices
+Occasionally develop and support websites using the Wordpress framework, including custom plugin development and modification to existing plugins
+Write clean, well designed, reusable code following KISS and DRY principles
+Work from specifications to build out complete web portals with database back-ends
+Troubleshoot, test, and maintain web applications and for multiple browsers and multiple devices
+Collaborate using internal and client-facing online tools on a daily basis
+Design and build unit tests, and review and refactor legacy code as needed
+Communicate project status updates with clients and team members
+Required Skills:
+Minimum 5 years of proven experience and knowledge in PHP MVC development, working within the LAMP (Linux, Apache, MySQL, PHP) stack
+Experience in both Windows and Linux platforms, able to develop and deploy to and from these environments
+Minimum 5 years of interface development and design experience, with expertise in current web standard including Tailwind, JavaScript (preference for VueJS), AJAX, and others
+Able to create reusable components utilizing tailwind or Shadcn
+Proficiency in Git for version control, merging code, managing branches and releases
+Mastery of the Laravel MVC framework, including Livewire and Vue 3
+Experience with VueJS (Vue 3 Composition API Preferred) Alpine JS, and Inertia
+Experience withy MySQL (including MariaDB), SQLite, PostgreSQL, and MS SQL (at least one)
+Demonstrate creativity, innovation, and ability to think outside the box
+Strong communication and time management skills, working within a team environment
+Will be required to fill in a daily timesheet to track external (client) and internally facing projects.
+Strong learning aptitude and willing to learn new technologies
+Preferred Qualifications and Skills
+Bachelor's degree in Computer Science (or related technical field)
+Experience with sale libraries such as Bootstrap, Bulma, UIKit or Scadcn
+5 years of proven experience and knowledge of Wordpress development
+Experience with mobile app development frameworks like Ionic, React Native, or Flutter
+Experience with using API services as well as utilizing Laravel as an API
+Experience with Amazon Web Services (AWS)
+Linux administration experience, including Apache, Nginx, and related tools
+Database administration skills for MySQL, PostgreSQL, and Microsoft SQL Server
+Experience with Adobe Creative Cloud tools (e.g., Photoshop)
+Experience with Connectwise Manage for ticketing/project management
+Triple Helix is an equal opportunity employer that is dedicated to build a diverse environment. All suitable applicants will receive due consideration for employment regardless of race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.
+CONFIDENTIALITY: We appreciate all expressions of interest, however, as a practical matter, only select candidates whose backgrounds best match our client's requirements will be contacted.
+All resumes are retained and treated confidentially for consideration against future opportunities.
+US Citizens or Persons Only
+Job Type: Full-time
+Pay: $80,000.00 - $85,000.00 per year
+Benefits:
+Life insurance
+Paid holidays
+Paid time off
+Schedule:
+8 hour shift
+Day shift
+Monday to Friday
+Application Question(s):
+How many years do you have with Full-Stack Development?
+What is your required compensation?
+Are you a US citizen?
+How many years of experience do you have working with Laravel?
+Work Location: Remote",,2025-05-08
+Software Engineer (Full Stack),"Applied Microsystems, Inc","Anchorage, AK 99503",,"$80,000 - $114,000 a year","Full-time, Monday to Friday
++1","We are looking for a Software Engineer with expertise in full-stack development to join our team. This is a senior-level position, and we are looking for someone who’s been working professionally in IT for 5-10 years. You will be responsible for designing, developing, and optimizing scalable web applications, developing software integrations, and contributing to architectural decisions.
+Key Responsibilities
+Architect and develop high-quality, scalable web applications using Node.js, Vue.js, and Nuxt.
+Design, optimize, and manage relational databases using MySQL and PostgreSQL.
+Implement and manage CI/CD pipelines and deployment strategies.
+Work with cloud platforms (AWS, Azure, or GCP) for application hosting and scaling.
+Work with Docker and container orchestration tools for scalable deployment.
+Write clean, efficient, and maintainable code in Python and PHP.
+Develop scripts and tools for data processing and automation.
+Ensure security best practices and performance optimizations.
+Collaborate with other developers to deliver robust solutions and contribute to technical decision-making.
+Required Skills & Qualifications
+5+ years of experience in software development.
+Strong proficiency in Linux environments and GitHub-based workflows.
+Experience with frontend frameworks like Vue.js/Nuxt.js.
+Deep understanding of RESTful APIs, microservices, and relational databases.
+Proficiency in Docker and containerized application deployment.
+Familiarity with DevOps practices and CI/CD pipelines.
+Hands-on experience with cloud services (AWS, Azure, or GCP).
+Strong analytical and problem-solving skills.
+Nice to Have
+Familiarity with Apache configuration.
+Some exposure to AI/ML and LLMs, with experience integrating them into applications.
+Familiarity with data processing tools like Pandas, NumPy, or SQL optimization.
+Job Type: Full-time
+Pay: $80,000.00 - $114,000.00 per year
+Benefits:
+401(k)
+Dental insurance
+Family leave
+Health insurance
+Life insurance
+Paid holidays
+Paid sick time
+Paid time off
+Vision insurance
+Compensation Package:
+Profit sharing
+Schedule:
+8 hour shift
+Monday to Friday
+Application Question(s):
+Ideal candidates should live in the Anchorage region, as this position is in person. We are not currently considering remote workers.
+Ability to Commute:
+Anchorage, AK 99503 (Required)
+Work Location: In person",,2025-05-08
+Software Engineer III,Indeed,Remote,,"$143,000 - $207,000 a year",Full-time,"Our Mission
+As the world’s number 1 job site*, our mission is to help people get jobs. We strive to cultivate an inclusive and accessible workplace where all people feel comfortable being themselves. We're looking to grow our teams with more people who share our enthusiasm for innovation and creating the best experience for job seekers.
+
+(*Comscore, Total Visits, March 2024)
+Day to Day
+Indeed is looking for talented and engaged engineers to join a team building world-class time-keeping, payroll, and billing oriented applications for our rapidly growing Staffing industry market. The candidate has experience growing applications as an organization scales and is familiar with navigating backend & frontend codebases, varying languages, and different frameworks to solve problems from an end-to-end perspective. Playing a proactive role in product direction, improving code quality, and upleveling other developers are also role expectations. Join our fast-growing team to address technical challenges at scale while delivering product-driven value to clients and customers.
+Responsibilities
+Self-assured in greenfield, customer-facing product development as well as in refactoring large, monolithic code bases into context-bounded microservices or applications.
+Complete ownership of their work from design, implementation, deployment, and monitoring & assessment through self-established metrics and analysis.
+Work with cross-functional teams, including the ability to proactively communicate with team members to handle problems and communicate updates.
+A passion for high-quality code through establishing best practices, automated testing, and thorough code reviews.
+Diligently leveraging AI-coding tooling & assistive technologies to accelerate development.
+Skills/Competencies
+Bachelor of Science degree in Computer Science, Engineering, Computer Security, Information Systems, or related field, OR comparable level of professional experience
+6+ years experience in Java, Python, or TypeScript, and familiarity with modern development frameworks.
+Experience with microservice architecture and/or implementing API standards & frameworks, including: REST, GraphQL, or gRPC.
+Experience with efficient data design and optimization in at least one of: SQL, MongoDB, or Elasticsearch
+Experience analyzing applications and their performance with tools such as DataDog, OpenTracing/OpenTelemetry, Kibana, etc
+Exceptional ability to solve problems both in code and outside of code.
+Experience with Ruby development is a plus.
+Salary Range Transparency
+
+Austin 143,000 - 207,000 USD per year
+US Remote 143,000 - 207,000 USD per year
+New York City, Metro Area 184,000 - 266,000 USD per year
+Seattle, Metro Area 184,000 - 266,000 USD per year
+San Francisco, Metro Area 196,000 - 284,000 USD per year
+Salary Range Disclaimer
+The base salary range represents the low and high end of the Indeed salary range for this position in the given work location. Actual salaries will vary depending on factors including but not limited to location, experience, and performance. The range(s) listed is just one component of Indeed's total compensation package for employees. Other rewards may include quarterly bonuses, Restricted Stock Units (RSUs), a Paid Time Off policy, and many region-specific benefits.
+Benefits - Health, Work/Life Harmony, & Wellbeing
+We care about what you care about. We have a multitude of benefits to support Indeedians, as well as their pets, kids, and partners including medical, dental, vision, disability and life insurance. Indeedians are able to enroll in our company’s 401k plan, as well as an equity-based incentive program. Indeedians will also receive open paid time off, 12 paid holidays a year and up to 26 weeks of paid parental leave. For more information, select your country and learn more about our employee benefits, program, & perks at https://benefits.indeed.jobs!
+Equal Opportunities and Accommodations Statement
+Indeed is deeply committed to building a workplace and global community where inclusion is not only valued, but prioritized. We’re proud to be an Equal Employment and Affirmative Action employer seeking to create a welcoming and inclusive environment. All qualified applicants will receive consideration for employment without regard to disability, status as a protected veteran, or any other non-merit based or legally protected grounds.
+
+Indeed is dedicated to providing reasonable accommodations to qualified individuals with known disabilities to participate in the employment application process. To learn more about requesting an accommodation, please visit https://www.indeed.com/careers/accommodations. In the request for an accommodation, please inform us of the nature of your request and your contact information. If you are requesting accommodation for an interview, please reach out at least one week in advance of your interview.
+
+For more information about our commitment to equal opportunity/affirmative action, please visit our ESG home page (https://www.indeed.com/esg/deib?co=US).
+Inclusion & Belonging
+Inclusion and belonging are fundamental to our hiring practices and company culture, forming an integral part of our vision for a better world of work. At Indeed, we’re committed to the wellbeing of our employees and on a mission to make this the best place to work and thrive. We believe that fostering an inclusive environment where every employee feels respected and accepted benefits everyone, fueling innovation and creativity.
+
+We value diverse experiences, including those who have had prior contact with the criminal legal system. We are committed to providing individuals with criminal records, including formerly incarcerated individuals, a fair chance at employment.
+
+Those with military experience are encouraged to apply. Equivalent expertise demonstrated through a combination of work experience, training, military experience, or education is welcome.
+Indeed’s Employee Recruiting Privacy Policy
+Like other employers Indeed uses our own technologies to help us find and attract top talent from around the world. In addition to our site’s user and privacy policy found at https://www.indeed.com/legal, we also want to make you aware of our recruitment specific privacy policy found at https://www.indeed.com/legal/indeed-jobs.
+
+Indeed does not pay placement fees for unsolicited resumes or referrals from non-candidates, including search firms, staffing agencies, professional recruiters, fee-based referral services, and recruiting agencies (each individually, an ""Agency""), subject to local laws. An Agency seeking a placement fee must obtain advance written approval from Indeed's internal Talent Acquisition team and execute a fee agreement with Indeed for each job opening before making a referral or submitting a resume for that opening.
+
+The deadline to apply to this position is 3/10/25. Job postings may be extended at the hiring team’s discretion based on applicant volume.
+
+Reference ID: 45573
+
+Reference ID: 45573
+Pay: $143,000.00 - $207,000.00 per year
+Work Location: Remote",,2025-05-08
+UI Developer| Front End - Hybrid | 65/hr,Vaco by Highspring,"Hybrid work in Nashville, TN 37203",,$50 - $68 an hour,Contract,"Title: UI/Front End Developer - Angular (Or React), API integration, TypeScript, HTML, CSS
+Employment Type: 12 month Contract
+Location: Hybrid in Nashville (Downtown)
+Compensation: 65/hr
+Reason for Opening: Company is going through a process and digital transformation that is driving a lot of new development. Part of a 5 year overhaul of royalties and song admin systems that are moving to AWS
+Requirements:
+
+Minimum of 5 years of experience in Angular 2+ (or React) development, with a strong focus on API integration, particularly using Typescript.
+Proficient in HTML, CSS/SCSS and JavaScript.
+Skilled in creating pixel-perfect web Interfaces based off provided design mockups.
+Capable of translate high-level requirements into wireframes, user flows, and interactive prototypes under very tight timelines.
+Collaborating effectively with team members, Product Managers, subject matter experts, and cross-functional teams to refine requirements and develop functional software using standardized coding practices.
+Understanding of the software development lifecycle and methodologies such as Agile, Scrum, CI/CD, and DevOps.
+Knowledgeable in all phases of development lifecycles and solution delivery for cloud systems, with experience in unit and integration testing, as well as strong documentation skills.
+
+Vaco by Highspring values a diverse workplace and strongly encourages women, people of color, LGBTQ+ individuals, people with disabilities, members of ethnic minorities, foreign-born residents, and veterans to apply.
+EEO Notice
+Vaco by Highspring is an Equal Opportunity Employer and does not discriminate against any employee or applicant for employment because of race (including but not limited to traits historically associated with race such as hair texture and hair style), color, sex (includes pregnancy or related conditions), religion or creed, national origin, citizenship, age, disability, status as a veteran, union membership, ethnicity, gender, gender identity, gender expression, sexual orientation, marital status, political affiliation, or any other protected characteristics as required by federal, state or local law.
+Vaco by Highspring and its parents, affiliates, and subsidiaries are committed to the full inclusion of all qualified individuals. As part of this commitment, Vaco by Highspring and its parents, affiliates, and subsidiaries will ensure that persons with disabilities are provided reasonable accommodations. If reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please contact HR@vaco.com .
+Vaco by Highspring also wants all applicants to know their rights that workplace discrimination is illegal.
+By submitting to this position, you agree that you will be giving Vaco by Highspring the exclusive right to present your as a candidate for the foregoing employment opportunity. You further agree that you have represented information about yourself accurately and have not affirmatively misrepresented your qualifications. You also agree to maintain as confidential, to the fullest extent permitted by law, any information you learn from Vaco by Highspring about the position and you will limit disclosure of information about the position only to the extent necessary to perform any obligations in furtherance of your application. In exchange, Vaco by Highspring agrees to exercise reasonable efforts to represent you through all solicitation, job screening and resume dispersal.
+Privacy Notice
+Vaco by Highspring and its parents, affiliates, and subsidiaries (“we,” “our,” or “Vaco by Highspring”) respects your privacy and are committed to providing transparent notice of our policies.
+California residents may access Vaco by Highspring HR Notice at Collection for California Applicants and Employees here.
+Virginia residents may access our state specific policies here.
+Residents of all other states may access our policies here.
+Canadian residents may access our policies in English here and in French here.
+Residents of countries governed by GDPR may access our policies here.
+Pay Transparency Notice
+Determining compensation for this role (and others) at Vaco by Highspring depends upon a wide array of factors including but not limited to:
+the individual’s skill sets, experience and training;
+licensure and certification requirements;
+office location and other geographic considerations;
+other business and organizational needs.
+With that said, as required by local law, Vaco by Highspring believes that the following salary range referenced above reasonably estimates the base compensation for an individual hired into this position in geographies that require salary range disclosure. The individual may also be eligible for discretionary bonuses.",,2025-05-08
+Software Engineer,"Dynamic Animation Systems, Inc.","McLean, VA 22102",,"$75,000 - $150,000 a year","Full-time, Monday to Friday","MINIMUM MUST-HAVE REQUIREMENTS
+1) Have a completed Bachelor of Science degree in Computer Science, Engineering, Math, or other Physical Science with demonstrated academic software focus
+-AND-
+2) Have 3-7 years of post-graduation professional applied experience described on resume developing software in Javascript/Typescript, Java, C++ and/or python using an Agile methodology
+DESIRED QUALIFICATIONS
+(in addition to the above minimum requirements)
+Experience developing in a Linux environment
+Experience with React and Angular framework
+Experience with tools such as Gradle, Podman, and Docker
+Candidates should be self-motivated and detail-oriented with strong analytical and critical thinking skills
+DESCRIPTION
+DAS is currently seeking mid-level software engineers to become an integral part of our team conducting innovative software development on projects supporting various Naval Combat Training Systems for our customer at the Naval Surface Warfare Center, Carderock, MD. Projects will entail execution of scientific, engineering and technical services required for the design, development, integration, test, fleet implementation and maintenance of training simulation systems. This position offers the opportunities for supporting full-stack software development on leading edge Navy Combat System Training Systems. Efforts include all phases of the software development life-cycle conducted via an Agile Kanban software development process. Our current focused hiring need is for those with capabilities and experience in React and Angular, but our systems make use of multiple languages including Javascript/Typescript, C++, Java, Scala, Rust, Go, and Python, as well as tools including Gradle, Podman, and Docker.
+RESPONSIBILITIES
+Analyze technology/capability gaps; research, develop, and deploy software solutions within our Agile Kanban software development process
+Work with project leads to define sprints and associated deliverables
+Collaborate with other developers to design and optimize code
+Conduct integration, test, bug fixes, and other software maintenance activities
+Assist in the creation of technical documentation and user guides in support of developed software
+SALARY NOTES
+The salary range posted covers all levels of experience and capability for software engineers and is not specific to this posted position. The salary offered will be commensurate with the candidate's breadth of capability and level of experience.
+JOB LOCATION
+***Remote work (including hybrid) is not possible due to the secret nature of these projects.***
+Successful candidates will primarily work at our McLean, VA facility
+There may be occasions when employees will temporarily work at our customer site in Carderock, MD.
+Job Type: Full-time
+Pay: $75,000.00 - $150,000.00 per year
+Benefits:
+401(k)
+401(k) matching
+Dental insurance
+Flexible schedule
+Health insurance
+Health savings account
+Life insurance
+Paid time off
+Professional development assistance
+Tuition reimbursement
+Vision insurance
+Compensation Package:
+Yearly pay
+Schedule:
+Monday to Friday
+Education:
+Bachelor's (Required)
+Experience:
+Linux-based environment development: 3 years (Required)
+React and Angular or other front-end professional SW Dev: 3 years (Required)
+License/Certification:
+US Citizenship without dual-citizenship (Required)
+Security clearance:
+Secret (Preferred)
+Ability to Commute:
+McLean, VA 22102 (Required)
+Work Location: In person",,2025-05-08
+"Engineer II, Software Engineer (Hybrid)",Pratt & Whitney,"Aguadilla, PR",,,Full-time,"Date Posted:
+2025-05-07
+Country:
+United States of America
+Location:
+PW222: PW Puerto Rico Road 110 North Km28.8 San Antonio Industrial Park, Aguadilla, PR, 00603 USA
+Position Role Type:
+Hybrid
+U.S. Citizen, U.S. Person, or Immigration Status Requirements:
+The ability to obtain and maintain a U.S. government issued security clearance is required. U.S. citizenship is required, as only U.S. citizens are eligible for a security clearance
+Security Clearance:
+DoD Clearance: Secret
+Pratt & Whitney is working to once again transform the future of flight—designing, building and servicing engines unlike any the world has ever seen. And because transformation begins from within, we’re seeking the people to drive it. So, calling all curious.
+Come ready to explore and you’ll find a place where your talent takes flight—beyond the borders of title, a country or your comfort zone. Bring your passion and commitment and we’ll welcome you into a tight-knit team that takes our mission personally. Channel your drive to make a difference into shaping an organization and an industry that’s evolving fast to the future.
+
+At Pratt & Whitney, the difference you make is on display every day. Just look up. Are you ready to go beyond?
+What You Will Do
+Pratt & Whitney Controls & Diagnostic Systems (CDS) is a dynamic and multi-disciplinary engineering organization focused on the development, integration, certification and support of military and commercial gas turbine engine control and diagnostic systems and related sub-systems. The CDS organization is seeking a highly motivated, team oriented, and results driven Engineer to join our world-class organization. The CDS organization is seeking a highly motivated, team oriented, and results driven Engineer II to join our world-class organization.
+Responsible for designing, developing, and implementing solutions to control dynamic mechanical, power, and electric systems.
+Decompose system level and customer interface requirements into software or systems requirements and designs.
+Conduct iterative prototype testing and reviews of requirements and designs.
+Perform software verification including regression analysis, test case development, test script development and evaluation of results.
+English (read, write, speak) is required when communicating with customers, co-workers, or supervisors who only speak English.
+Travel up to 10% domestically.
+Qualifications You Must Have
+Bachelor degree in Science, Technology, Engineering or Mathematics (STEM)
+2 years of engineering experience or advanced degree in STEM with a GPA of 3.0 or higher.
+6 months of programming experience with Java, C/C++, R, Python, Linux or DOORS.
+Qualifications We Prefer
+BS in Computer Science, Software or Computer Engineering
+Basic understanding of gas turbine jet engine operation and sub-systems.
+Experience with modeling tools for complex systems (NPSS, Dymola, Simulink).
+Familiarity with jet engine control and diagnostic system architectures and control logic design.
+US Security Clearance; willing to obtain and maintain.
+What We Offer:
+Employee Scholar Program
+Learn More & Apply Now!
+CDS develops complex, cyber-resilient control systems and software for commercial and military engines including power and thermal management Systems and auxiliary power units. CDS also develops advanced diagnostic & health management systems to monitor our products, forecast events and help facilitate MRO operations. With growing emphasis on sustainability, CDS is on the forefront of system development for hybrid and electric propulsion.
+What Is My Role Type: In addition to transforming the future of flight, we are also transforming how and where we work. We’ve introduced role types to help you understand how you will operate in our blended work environment. This role is:
+Hybrid: Employees who are working in Hybrid roles will work regularly both onsite and offsite. This means that responsibilities of the job need to be performed onsite on a regular basis.
+Candidates will learn more about role type and current site status throughout the recruiting process. For onsite and hybrid roles, commuting to and from the assigned site is the employee’s personal responsibility.
+This requisition is eligible for an employee referral award. ALL eligibility requirements must be met to receive the referral award.
+RTX is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability or veteran status, or any other applicable state or federal protected class. RTX provides affirmative action in employment for qualified Individuals with a Disability and Protected Veterans in compliance with Section 503 of the Rehabilitation Act and the Vietnam Era Veterans’ Readjustment Assistance Act.
+Privacy Policy and Terms:
+Click on this link to read the Policy and Terms",,2025-05-08
+Full Stack Developer,Rethink,"New York, NY 10001",,$50 - $60 an hour,Full-time,"Looking to add a .NET Developer to a very successful and growing team. Candidate will develop, design, test and deploy websites as well as support and maintain existing functionality.
+Candidate should be experienced and productive with Microsoft development technologies. A solid understanding of design patterns, object orientation and best practices is a must. Candidate should be skilled and experienced with the C# language, the .Net platform, Microsoft web technologies and Microsoft development technologies. Mobile application development is a plus.
+Requirements include: C#, .NET Core, SQL Server, Javascript, MVC framework, HTML/CSS, Angular 2+, TypeScript. Preferred Skills: Dev Ops.
+Job Type: Full-time
+Pay: $50.00 - $60.00 per hour
+Experience:
+HTML5: 1 year (Preferred)
+.NET Core: 1 year (Preferred)
+CSS: 1 year (Preferred)
+SQL: 1 year (Preferred)
+Angular 2+: 1 year (Preferred)",,2025-05-08
+Front End Software Engineer,AIQ,"Remote in Denver, CO",,"$110,000 - $120,000 a year",,"About Alpine IQ
+
+AIQ, also referred to as Alpine IQ, was established in 2019 with a clear vision: to revolutionize customer data compliance within heavily regulated industries.
+Over time, our tool naturally evolved into a comprehensive suite of products designed to address a variety of critical challenges faced by retailers. Our solutions empower businesses to streamline core operations and make informed decisions with ease, eliminating the uncertainties around customer demographics and preferences.
+We cater to organizations of all scales, from small family-owned enterprises to large publicly listed corporations, ensuring that our solutions are accessible and beneficial to businesses of every size.
+
+About the Role
+We’re looking for a Front End Software Engineer (Level 2) to join our fully remote engineering team. In this role, you’ll be hands-on with coding and debugging, collaborating closely with our product and engineering teams to build new features and improve existing ones across both web and native apps.
+You’ll take ownership of your work from ideation to deployment, and be an active contributor to a high-performing team. We're looking for someone who thrives in a fast-paced environment, is passionate about clean, maintainable code, and enjoys solving tough technical problems.
+This is a great opportunity for an experienced front-end engineer who wants to grow their impact, mentor junior engineers, and contribute meaningfully to a product with real-world reach.
+
+What You’ll Do
+Build & Ship: Write high-quality, scalable code for new features across web and native platforms.
+Maintain & Improve: Refactor and optimize legacy code for better performance and reliability.
+Troubleshoot: Diagnose and resolve bugs and technical issues quickly and efficiently.
+Collaborate: Work closely with fellow engineers and product managers to design, scope, and implement new features.
+Mentor: Support and coach junior engineers through code reviews and knowledge sharing.
+Innovate: Stay current with emerging front-end trends and suggest ways to improve tooling and workflows.
+What Success Looks Like
+You're writing clean, well-tested JavaScript/TypeScript code using React and React Native.
+You're proactively identifying and resolving performance bottlenecks and bugs.
+You collaborate effectively across teams and communicate clearly.
+You're mentoring others and contributing to a healthy, inclusive engineering culture.
+You’re delivering features that align with both technical and product goals.
+What We’re Looking For
+Required Skills:
+Strong proficiency in JavaScript and TypeScript
+Deep experience with React and React Native (via Expo)
+Comfortable consuming and working with REST APIs
+Familiar with modern testing frameworks such as Jest, Cypress, and Testing Library
+Knowledge of Git and version control best practices
+Ability to write clean, maintainable, and testable code
+Awareness of security best practices in software development
+Experience with performance optimization for front-end applications
+Bonus Skills:
+Familiarity with Next.js and Vercel
+Backend development experience in Go or Node.js
+Scripting experience (Python, Bash, etc.)
+Containerization knowledge with tools like Docker
+Experience collaborating with design teams using Figma
+Experience & Education:
+3+ years of hands-on experience as a software engineer
+Bachelor’s or Master’s degree in Computer Science or related field (not required)
+Why You’ll Love Working Here
+100% remote team – work from anywhere within the U.S.
+Collaborative and supportive engineering culture
+Opportunities to grow your skills and shape our technical direction
+Meaningful work with a product that impacts thousands of user
+
+Ready to apply?
+If you're excited about building great front-end experiences and want to be part of a driven, remote-first team, we’d love to hear from you.
+You will need to complete an assessment to be considered for this role. Follow this link: https://app.testgorilla.com/s/f2ii1rc0
+
+The pay range for this role is:
+110,000 - 120,000 USD per year(Remote (Denver, Colorado, US))",,2025-05-08
+JAVA Software Engineer,BAE Systems,"Annapolis Junction, MD 20701",,"$146,670 - $249,330 a year",Full-time,"Job Description
+
+Software Engineer
+The Software Engineer will perform software development activities as a member of an agile development team. Development includes the full range of turning agile stories into implementable concepts, through development, testing, and deployment of the new capabilities in this complex system. Following the BDD pattern, our developers are responsible for implementing robust testing leveraging DEVOPS automation and, where appropriate, use of test automation commercial tools. There are a range of opportunities for server-side business logic implementation as well as client web application and user interface (UI) development. Java, Python, embedded C/C++, Java cryptographic framework, XML, web UI and special purpose device programming opportunities are available.
+Primary Responsibilities
+The Software Engineer will be responsible for software development activities both individually and as a member of an agile team. The software engineer will actively participate in program increment planning and related team activities. The individual will analyze and study complex system requirements, use design software tools, provide support using formal specifications, data flow diagrams, and other accepted design techniques with the use of Computer Aided Software Engineering (CASE) tools and will use sound software engineering principles to ensure that developed code is modifiable, efficient, reliable, understandable, fault tolerant, and reusable. The individual will provide software process management and control throughout the coding portion of the software development process. Additionally, the individual will promote code reuse and cross-program collaboration while reducing maintenance costs by creating common functions and shared actions for developers and testers. The individual will engineer, author, tune and document automation scripts in a development environment and deploy to the test/production bench.
+
+Required Education, Experience, & Skills
+Must have demonstrated experience with Java.
+Experience or familiarity with multiple the following: Java/JEE, Python, C/C++, SQL, SOAP, WSDL, WADL, PERL, PowerShell, VBS, Eclipse, Postgres, Oracle, Jenkins.
+Experience with Web Application User Interface Development, knowledge of databases and structures, and/or experience working with JSON, HTML, XML, XSLT.
+Experience with technologies underlying cryptographic systems (symmetric and asymmetric cryptography, ASN.1 encoding, XML canonicalization, digital signatures)
+Experience developing on Windows, and/or Linux operating systems.
+Must have documented professional experience with web services.
+Must have a strong understanding of sound software development principles and practices.
+Must be able to plan and prioritize personal tasking and be able to communicate effectively verbally and in writing.
+Must be an independent thinker, capable of performing high quality work, both independently and with a team in a fast-moving environment.
+
+Preferred Education, Experience, & Skills
+Bachelor's degree in Computer Science or a related discipline.
+Experience with the following: JEE (EJB, JPA, JTA, JAX-B, JAX-RS, JAX-WS), SQL, application servers (Tomcat, WebLogic, JBoss), scripting.
+Experience with high level requirements management including requirements decomposition, secure systems engineering and development, trade-off analysis, interface control, and testing and continuous integration.
+Experience in software development on Agile teams using Agile Developer practices such as Pair Programming, TDD, Refactoring, and ATDD.
+Experience with FITNesse, Mockito, Cucumber, Unified Functional Tester (UFT), Selenium.
+Experience with Behavior Driven Development (BDD).
+Secure Software development (i.e., Layer 7 Policy).
+Experience with the Scaled Agile Framework (SAFe) methodology, SAFe Agilest Certification, or experience as a member of an agile team.
+Additional experience in J2EE, Python, C/C++, SQL, SOAP, WSDL, Postgres, Oracle, Mongo, PowerShell a plus.
+#MDOPS
+#LI-KK2
+
+Pay Information
+Full-Time Salary Range: $146670 - $249330
+
+Please note: This range is based on our market pay structures. However, individual salaries are determined by a variety of factors including, but not limited to: business considerations, local market conditions, and internal equity, as well as candidate qualifications, such as skills, education, and experience.
+
+Employee Benefits: At BAE Systems, we support our employees in all aspects of their life, including their health and financial well-being. Regular employees scheduled to work 20+ hours per week are offered: health, dental, and vision insurance; health savings accounts; a 401(k) savings plan; disability coverage; and life and accident insurance. We also have an employee assistance program, a legal plan, and other perks including discounts on things like home, auto, and pet insurance. Our leave programs include paid time off, paid holidays, as well as other types of leave, including paid parental, military, bereavement, and any applicable federal and state sick leave. Employees may participate in the company recognition program to receive monetary or non-monetary recognition awards. Other incentives may be available based on position level and/or job specifics.
+
+About BAE Systems Intelligence & Security
+BAE Systems, Inc. is the U.S. subsidiary of BAE Systems plc, an international defense, aerospace and security company which delivers a full range of products and services for air, land and naval forces, as well as advanced electronics, security, information technology solutions and customer support services. Improving the future and protecting lives is an ambitious mission, but it’s what we do at BAE Systems. Working here means using your passion and ingenuity where it counts – defending national security with breakthrough technology, superior products, and intelligence solutions. As you develop the latest technology and defend national security, you will continually hone your skills on a team—making a big impact on a global scale. At BAE Systems, you’ll find a rewarding career that truly makes a difference.
+
+Intelligence & Security (I&S), based in McLean, Virginia, designs and delivers advanced defense, intelligence, and security solutions that support the important missions of our customers. Our pride and dedication shows in everything we do—from intelligence analysis, cyber operations and IT expertise to systems development, systems integration, and operations and maintenance services. Knowing that our work enables the U.S. military and government to recognize, manage and defeat threats inspires us to push ourselves and our technologies to new levels.",,2025-05-08
+Software Developer I,3MD Inc.,"Redmond, WA 98052",,$46.15 an hour,Weekends as needed,"Summary of Position:
+The Software Developer I is responsible for all aspects of software and systems development. The Software Developer I will direct and participate in programming activities, monitor, and evaluate system performance, and design and implement new programs and features.
+Essential Functions:
+Design, develop, and create applications and code for computer systems or programs based on business, client, and functional requirements
+Apply a high degree of theoretical knowledge and understanding of computer systems and programming to computer systems
+Troubleshoot technical system or software issues experienced during development and exercise independent judgment and discretion to determine strong solutions
+Create, analyze, manage, and triage systems or software defects
+Demonstrate skill in a computer system and software development requirements
+Ensure reporting and development meets established client processes and procedures
+Communicate and interact with all levels of staff to coordinate project deliverables, including leading meetings and ensuring timely delivery of status reports
+Work nights and weekends to meet client and/or project requirements
+Write and maintain code
+Modify the software to fix errors, adapt it to new hardware, improve its performance, or upgrade interfaces
+Competencies:
+Ensures Accountability
+Tech Savvy
+Communicates Effectively
+Values Differences
+Customer Focus
+Resourcefulness
+Drives Results
+Plans and Prioritizes
+Decision Quality
+Self-Development
+Work Environment:
+This job operates in a professional office environment. This role routinely uses standard office equipment such as computers, phones, photocopiers, filing cabinets and fax machines.
+Physical Demands:
+The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job.
+While performing the duties of this job, the employee in this position frequently communicates with other co-workers/clients who have inquiries about the various projects and other needs. Must be able to exchange accurate information in these situations. The employee must be able to remain in a stationary position 75% of the time. The employee in this position needs to occasionally move about inside the office to access file cabinets, office machinery, etc. Constantly operate a computer and office machinery such as a calculator, keyboard, copy machine and printer. Frequently moves boxes with equipment weighing up to 60lbs across the building and to other offsite buildings for various project needs.
+Required Education and Experience:
+Bachelor’s Degree preferred
+5+ years of experience
+Qualifications:
+Bachelor’s degree preferred
+Ability to work independently, make sound discretionary judgments, and without close supervision once high-level goals are defined
+Ability to analyze and solve complex problems quickly and creatively
+Self-motivated and team player
+Strong attention to detail, multi-tasker, and ability to follow written and verbal instructions
+General experience with software/programming using C# and/or C++, Java, JavaScript. Other scripting languages are a bonus
+Capability/experience operating at software architect level systems/project design
+Experience/Ability to interface to outside resources (vendors, cross-org, cross-group)
+Ability to practically apply a high degree of theoretical knowledge and understanding of computer systems and programming to computer systems
+Strong understanding of backend computer system infrastructure and program design
+Knowledge of the software development life cycle
+AAP/EEO Statement:
+3MD Inc. is an equal opportunity employer and does not discriminate based on gender, sex, age, race and color, religion, marital status, national origin, disability, sexual orientation, gender identity or expression, veteran status or any other category that is protected by applicable law.
+Other Duties:
+Please note this job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee for this job. Duties, responsibilities and activities may change at any time with or without notice.",,2025-05-08
+Software Engineer (FlippedApp),Concept3D,"Remote in Denver, CO",,"$90,000 - $135,000 a year",,"About Concept3D
+Concept3D provides the ability to create an elevated, university-branded experience for student events, interactive mapping, virtual tours, and more within one, centralized platform. Concept3D empowers administrators to bring their campus to life with visually stunning, immersive online experiences that improve campus communications, recruitment, and navigation while engaging current and potential students. Serving the higher education community for over a decade, Concept3D clients include more than 700 universities and colleges, including over 70% of the top 100 U.S. universities, as well as live events, destinations, and sporting venues.
+Team Culture
+We are a group of dedicated and multi-faceted individuals who are self-motivated and are excited to be a part of a company that is charting the future of interactive maps, tours and events. We define ourselves through the values by which we operate. Employees have an opportunity to learn all elements of the business, and direct access to the leadership team. Our teams are full of ideas and everyone's voice gets heard. While our offices are in Denver, Colorado, and Minneapolis, Minnesota, we currently are operating remotely with a nationally-distributed team.
+About This Role
+This position is for a Software Engineer who will work within our software engineering organization to develop and maintain the FlippedApp product. As a Software Engineer, you will report directly to the Software Engineering Manager, who will be primarily responsible for providing direction and evaluating your performance. Responsibilities include:
+Develop software adhering to the team’s established best practices and processes
+Ensure product quality through development of automated tests
+Provide and receive peer code reviews
+Develop new functionality as specified
+Fix bugs with existing code
+Actively participate in agile planning and release processes
+Other duties as assigned
+Requirements
+About You
+You are a full stack developer.
+You can proficiently write code in JavaScript.
+You have experience working with cloud platforms (AWS / Azure).
+You have experience with agile software development and working as part of a collaborative agile team.
+You can demonstrate knowledge of computer science principles, preferably with a computer science degree.
+You are organized, methodical, and consistent.
+Preferred Technologies (do you have experience with some of these?)
+JavaScript (TypeScript, React, Node.js, Express)
+AWS / Azure
+Git
+Docker
+Extra Credit
+You have experience building accessible websites that meet the WCAG 2.1 Level AA standard.
+You have experience writing serverless functions (i.e. AWS Lambda).
+You are comfortable leveraging AI in your development workflow (i.e. Cursor, Claude, OpenAI).
+Benefits
+Why you'll love it here
+Check out our company page for more information on our Mission and Values.
+Competitive compensation. For this role our salary is targeted at $90,000 to $135,000 per year, dependent on experience and alignment with the role.
+Concept3D Equity. So you can share in Concept3D's success.
+Time off Policy which includes time to recharge, refresh and take time for yourself and family members.
+6 weeks of 100% Paid Parental Leave to support the care and bonding time after the birth, adoption or placement of child via foster care.
+Medical, Dental, Vision. Concept3D pays 100% of employee premiums on select plans.
+Life Insurance and Disability. Concept3D covers the full premium.
+401(k). To help you save for the future, we match 75% up to 5% of your annual take home pay.
+Hybrid in Denver and Minneapolis, remote nationwide. If located in Denver, the team goes into the office 2x per month.
+Monthly and quarterly culture events to connect our teams.
+The interview overview
+Below you will find an outline of the interview plan for our Software Engineer. Please note that this is what we expect the process to look like; we may ask you for supplemental information or require additional steps before making a final decision.
+30-minute phone screen
+45-minute leadership interview
+90-minute panel interview with team members
+Take-home code challenge
+90-minute code challenge review with team members
+Candidate provides 3 references
+C3D sends an offer
+At Concept3D, we're building a diverse team that values candor, curiosity, and community. If you share these values and are interested in joining us, we'd love to talk with you even if you don't 100% meet the ""about you"" listed here. We don't expect anyone to have all the answers, as long as you're willing to learn and grow with us.
+Concept3D is an Equal Opportunity Employer. We are building an inclusive and collaborative workplace, and we welcome team members regardless of gender/identity, sexual orientation, race or cultural background, religion, physical disability and age.
+How To Apply
+Please apply via the Concept3D website here: https://concept3d.com/company/careers/",,2025-05-08
+Software Engineer,Zazzle,"Hybrid work in San Francisco Bay Area, CA",,"$155,605 - $165,000 a year",Full-time,"Zazzle Inc. has multiple Software Engineer positions available in 1200 Chestnut St, Menlo Park, CA 94025 and various unanticipated worksites throughout USA. Crafting and refining a framework for creating and modifying transactional and promotional email templates utilizing Liquid templating language, aligning closely with the marketing team's objectives of optimizing user retention enabling Zazzle to establish a strong international presence. Apply Python scripting expertise and AI tools to streamline processes and automate routine tasks, significantly improving efficiency. Conducting cost analysis of various Growth projects and proposals by evaluating the technical needs and resources; weighing different vendor integrations versus homegrown solutions. Designing and automating a data generation framework to aid with Zazzle’s Search Engine Optimization (SEO) efforts by leveraging advanced Natural Language Processing techniques, Artificial Intelligence, and automation tools such as Airflow. Researching, designing, and implementing cutting-edge authentication methods such as email and SMS-based One-Time Passwords (OTP), and social logins in C# by collaborating with the security team to enhance Zazzle's security infrastructure and deliver low friction authentication experiences. Combining state-of-the-art large language models from providers like Open AI and Cohere with Zazzle's proprietary historical data to develop enhanced tooling (like chatbots) for the Zazzle technology stack. Playing a key role in Zazzle’s performance and stability efforts by setting up dashboards and alerts on Splunk and Metabase to monitor and maintain the health of Zazzle's systems, identifying areas for improvement, and implementing said improvements. Ensuring the smooth operation of the language detection and translation system. Developing and maintaining software across various environments, including both cloud and on-premises deployments. Proactively scaling server clusters to accommodate the ever-increasing, seasonally fluctuating traffic to Zazzle, ensuring optimal performance and user experience. Presenting technical projects and share-outs to a wide range of stakeholders of varying competencies. 40 hours/week; $155,605 - $165,000/year
+Our job titles may span more than one career level. The starting base pay for this role is between $155,605 and $165,000 per year. The actual base pay is dependent upon many factors, such as: training, transferable skills, work experience, business needs and market demands. The base pay range is subject to change and may be modified in the future.",,2025-05-08
+Software Engineer,Bell-Mark Technologies,"Dover, PA 17315",,"From $75,000 a year","Full-time, Monday to Friday
++1","Software Engineer
+Company Statement: For over 60 years, Bell-Mark has been developing innovative solutions for package and carton printing applications in the medical device, pharmaceutical, prepared foods, meat, bakery, dairy, and poultry packaging industries. Bell-Mark offers many in-line printing technologies including piezo inkjet, thermal inkjet, thermal transfer, flexographic, and ink coder, all of which satisfy requirements to print directly on package and carton substrates.
+Job Description:
+Bell-Mark Technologies is seeking a full-time software engineer to write and maintain industrial printer configuration software and drivers for a windows-based environment.
+Qualifications:
+Strong C#/C++/C language skills and familiarity with assembly language.
+Ethernet Network experience a plus.
+Strong written and verbal communication skills for technical issues and software documentation
+Bachelor’s degree*
+Experience in embedded software & software design is preferred (3 years).
+Engineering Skills:
+Learn existing products operation.
+Use creativity to improve reliability, add features and lower costs.
+Employ embedded R/T operating systems when appropriate.
+Extensive electrical and mechanical design experience is not required but basic proficiency is.
+Documentation Skills:
+Write source code including an appropriate number of comments.
+Be able to write or design software/Firmware specifications.
+Ability to read electrical schematics, block diagrams, assembly drawings.
+Be self-disciplined to maintain integrity of computer & hardcopy files.
+Draw flowcharts when appropriate or required.
+Communication Skills:
+Meet with management, sales & customers to get & understand goals and report status.
+Communicate with vendors to clearly explain requirements.
+Explain theories of operation and manufacturing strategies to service & production staff.
+Misc. Skills:
+Keep up to date on emerging technology.
+Be proficient using a desktop PC and office applications.
+Have good attendance & professional conduct.
+Job Type: Full-time
+Pay: From $75,000.00 per year
+Benefits:
+401(k)
+Health insurance
+Health savings account
+Life insurance
+Paid time off
+Schedule:
+8 hour shift
+Monday to Friday
+Experience:
+Software design: 5 years (Required)
+Ability to Commute:
+Dover, PA 17315 (Required)
+Ability to Relocate:
+Dover, PA 17315: Relocate before starting work (Required)
+Work Location: In person",,2025-05-08
+Software Engineer [Entry Level],Ladders,"Remote in Philadelphia, NY",,"$100,000 - $140,000 a year",,"At Ladders, we’re redefining how professionals find better, more rewarding careers. With over a million job listings and a mission to make the job search smarter, faster, and more effective, we leverage innovation to deliver exceptional customer experiences. From groundbreaking products like Apply4Me to pioneering AI-driven solutions, we’re obsessed with simplifying complexity and driving results. We’re looking for curious problem solvers who thrive on tackling complex challenges. If you’re passionate about building elegant solutions for intricate problems, eager to integrate AI into your day-to-day work, and committed to delivering results in a transparent, customer-obsessed, and simplicity-driven culture, let’s talk.
+What You'll Do
+Design & Deliver: Build scalable, high-performance front-end and back-end systems for fast and seamless web experiences.
+Solve Complex Problems: Break down intricate challenges into actionable solutions, iterating quickly to address broad goals
+Embrace AI: Identify opportunities to embed AI into processes, optimizing efficiency and user experience
+Collaborate & Lead: Partner cross-functionally with design, product, and business teams. Lead and mentor engineers to foster growth and shared success
+Craft Excellence: Promote and practice clean code, robust testing, thorough documentation, and performance optimization
+Drive Innovation: Balance technical debt with long-term product and business goals. Your ideas today could shape our best-selling products tomorrow.
+What We're Looking For
+Problem-Solving Mindset: An innate ability to tackle complexity with intelligence and curiosity
+Full-Stack Proficiency: Expertise in front-end and/or back-end technologies
+Speed Matters: Experience in delivering fast, efficient solutions is highly valued
+Adaptability: Eagerness to learn and work with new tools, languages, and paradigms
+AI Enthusiast: Passion for integrating AI into development workflows to simplify and enhance solutions
+Experience at Scale: You’ve architected solutions for companies operating at significant scale
+Customer Focus: Empathy for end users and an unwavering commitment to improving their experience.
+What We Value
+Transparency: Open communication and feedback are at the core of how we work
+Customer Obsession: Every decision is guided by our commitment to delivering exceptional customer outcomes
+Simplicity: We believe the best solutions are those that simplify complexity without compromising quality
+AI Integration: Harnessing the power of AI to drive innovation and efficiency.
+
+Ideal candidate should have experience with: -
+Any modern, typed language: Python (3.10+), Golang, TypeScript, Rust - MySQL/MariaDB, OpenSearch (or ElasticSearch), Redshift
+LLMs, vector search, embeddings, similarity search - Terraform or Pulumi
+AWS, K8s
+Jenkins - Focus on thought through but simple and maintainable solutions addressing actual problems.
+Designing systems with ease of repeatable testing and local-first development.
+None of the above are mandatory, but are nice to have.
+Why Join Us
+Work remotely from anywhere while contributing to impactful projects that shape the careers of millions
+Competitive compensation
+Be part of a fast-paced, innovation-driven team where your ideas have a direct impact
+Collaborate with curious, motivated, and empathetic colleagues who value growth and excellence.
+If this sounds like the challenge you’re looking for, let’s create something extraordinary together. Apply today and lead the evolution at Ladders.",,2025-05-08
+Senior Frontend Software Engineer,"Trend Capital Holdings, Inc.","Hybrid work in Vancouver, WA",,"$115,000 - $150,000 a year",,"ABOUT THIS JOB
+
+We’re looking for an enthusiastic, experienced Senior or Lead Front End Developer to join our innovative technology team at Trend Capital. In this role, you’ll play a pivotal part in making platforms highly usable and thoroughly enjoyable for our clients and partners. Being self motivated, creative, eager to learn and a problem solver while maintaining a top quality level of code will ensure success in this role. If that’s you, join us!
+
+Our company offers great benefits: full healthcare package (medical, dental, vision, life), 401k with a company match, flexible schedule, catered lunch, coffee, tea and snacks, reward system, paid parking, competitive pay, and much more! Anyone who joins our team will have great potential for career and personal growth.
+
+We highly value:
+Clean, modular code
+Integration and end-to-end testing
+Continuous integration and delivery
+Observability and reliability
+
+REQUIRED KNOWLEDGE SKILLS
+
+3+ years of experience with modern JavaScript
+2+ years of experience with TypeScript (or similar, statically typed programming language)
+2+ years of experience with React (preferably NextJS / Remix)
+Experience with state management tools (Redux, React Context API, etc.)
+Strong knowledge of HTML5 and CSS3
+Experience working with module bundlers (e.g. webpack)
+Experience integrating with APIs (GraphQL/REST)
+Attention to detail with complex projects and time-sensitive materials
+Git
+
+EDUCATION
+
+Accredited Degree in Computer Science or Software Engineering (preferred but not required) or equivalent demonstrated work experience
+
+We like to code, not sift through JIRA tickets and boring stand-ups all day. We pride ourselves that each developer works in autonomous roles with little management or guidance!
+
+For more information about our company please visit https://trendcapital.com/.",,2025-05-08
